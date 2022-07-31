@@ -1,4 +1,4 @@
-public class DZ2_MergeSort {
+public class HW2_MergeSort {
 
     void merge(int arr[], int l, int m, int r)
     {        
@@ -69,7 +69,7 @@ public class DZ2_MergeSort {
         System.out.println("Исходный массив");
         printArray(arr);
  
-        DZ2_MergeSort ob = new DZ2_MergeSort();
+        HW2_MergeSort ob = new HW2_MergeSort();
         ob.sort(arr, 0, arr.length - 1);
  
         System.out.println("Отсортированный массив");

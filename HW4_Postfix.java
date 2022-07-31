@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.Math;
 // import java.util.Stack;
 
-public class DZ4_Postfix {
+public class HW4_Postfix {
 
     public static boolean isDigit(String s) throws NumberFormatException {
         try {

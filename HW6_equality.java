@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.lang.String;
 
 
-public class DZ6_equality {
+public class HW6_equality {
 
     public static boolean isDigit(String s) throws NumberFormatException {
         try {

@@ -4,7 +4,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class DZ3_ChessKnight2 {
+public class HW3_ChessKnight2 {
 
     public static void fillDesk(int[][] arr) 
     {

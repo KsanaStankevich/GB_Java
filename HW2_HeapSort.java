@@ -1,4 +1,4 @@
-public class DZ2_HeapSort {
+public class HW2_HeapSort {
 
     public void sort(int arr[])
     {
@@ -54,7 +54,7 @@ public class DZ2_HeapSort {
         System.out.println("Исходный массив");
         printArray(arr);        
 
-        DZ2_HeapSort ob = new DZ2_HeapSort();
+        HW2_HeapSort ob = new HW2_HeapSort();
         ob.sort(arr);
 
         System.out.println("Отсортированный массив");

@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.Math;
 
 
-public class DZ5_Wave {
+public class HW5_Wave {
 
     public static void printDesk(int[][] arr) 
     {
